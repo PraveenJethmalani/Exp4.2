@@ -15,7 +15,7 @@ this.division = division;
 this.age = age;
 }
 }
-let aamir = new Student("Praveen", 1, "D15A", "20");
+let praveen = new Student("Praveen", 1, "D15A", "20");
 console.log("Printing student object (object created through constructor): ", {Praveen})
 function validate() {
 const check = document.getElementById("validateThis").value;
